@@ -1,12 +1,14 @@
 import React from 'react';
+import NewExpense from './components/NewExpense/NewExpense';
 import Expenses from './components/Expenses/Expenses';
-import './App.css';
+
+// import './App.css';
 
 const App = () => {
   const expenses = [
     {
       id: 'e1',
-      title: 'Toilet Paper',
+      title: 'Paper',
       amount: 94.12,
       date: new Date(2022, 7, 14),
     },
@@ -47,7 +49,7 @@ return React.createElement(
 
   return (
     <div>
-      <h2 className='main__header' >Let's get started!</h2>
+      <NewExpense/>
       <Expenses items={expenses} />
     </div>
   );
