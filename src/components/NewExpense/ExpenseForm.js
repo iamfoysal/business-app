@@ -1,5 +1,6 @@
 import React from "react";
 import "./ExpenseForm.css";
+import { useState } from "react";
 
 const ExpenseForm = () => {
     // const [enterdTitle, setEnterdTitle] = useState('');
@@ -9,7 +10,7 @@ const ExpenseForm = () => {
     const [userInput, setUserInput] = useState({
         enterdTitle: '',
         enterdAmount: '',
-        enterdDate: ''
+        enterdDate: '',
     });
 
 
