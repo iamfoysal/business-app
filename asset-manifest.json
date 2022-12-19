@@ -1,13 +1,13 @@
 {
-  "main.css": "/count-app/static/css/main.2b150c81.chunk.css",
-  "main.js": "/count-app/static/js/main.be3da482.chunk.js",
-  "main.js.map": "/count-app/static/js/main.be3da482.chunk.js.map",
-  "runtime~main.js": "/count-app/static/js/runtime~main.6fcb9dbe.js",
-  "runtime~main.js.map": "/count-app/static/js/runtime~main.6fcb9dbe.js.map",
-  "static/js/2.660acc38.chunk.js": "/count-app/static/js/2.660acc38.chunk.js",
-  "static/js/2.660acc38.chunk.js.map": "/count-app/static/js/2.660acc38.chunk.js.map",
-  "index.html": "/count-app/index.html",
-  "precache-manifest.a02b175d57573b9067429e658ffc1731.js": "/count-app/precache-manifest.a02b175d57573b9067429e658ffc1731.js",
-  "service-worker.js": "/count-app/service-worker.js",
-  "static/css/main.2b150c81.chunk.css.map": "/count-app/static/css/main.2b150c81.chunk.css.map"
+  "main.css": "/business-app/static/css/main.2b150c81.chunk.css",
+  "main.js": "/business-app/static/js/main.be3da482.chunk.js",
+  "main.js.map": "/business-app/static/js/main.be3da482.chunk.js.map",
+  "runtime~main.js": "/business-app/static/js/runtime~main.c1457c0f.js",
+  "runtime~main.js.map": "/business-app/static/js/runtime~main.c1457c0f.js.map",
+  "static/js/2.660acc38.chunk.js": "/business-app/static/js/2.660acc38.chunk.js",
+  "static/js/2.660acc38.chunk.js.map": "/business-app/static/js/2.660acc38.chunk.js.map",
+  "index.html": "/business-app/index.html",
+  "precache-manifest.9331a14cf2fbfe54f0299e9ff11d2b2b.js": "/business-app/precache-manifest.9331a14cf2fbfe54f0299e9ff11d2b2b.js",
+  "service-worker.js": "/business-app/service-worker.js",
+  "static/css/main.2b150c81.chunk.css.map": "/business-app/static/css/main.2b150c81.chunk.css.map"
 }
