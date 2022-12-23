@@ -1,6 +1,6 @@
 {
-  "name": "count-app",
-  "homepage": "https://iamfoysal.github.io/count-app/",
+  "name": "business-app",
+  "homepage": "https://iamfoysal.github.io/business-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
