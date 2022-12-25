@@ -54,7 +54,6 @@ const ExpenseForm = (props) => {
     setEnterdTitle("");
     setEnterdAmount("");
     setEnterdDate("");
-    
   };
 
   return (
